@@ -1,150 +1,108 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20World!%20I'm%20Aaron&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20Hyprland%20workflows%20•%20Neovim%20configs&descSize=20&descAlignY=55)](https://github.com/aaronedev)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0c0a09,50:b45309,100:f59e0b&height=300&section=header&text=Hi,%20I'm%20Vicente&fontSize=70&fontColor=fef3c7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%2F%20LLM%20Engineering%20%E2%80%A2%20La%20Plata,%20Argentina&descSize=20&descAlignY=55)](https://github.com/VicRedDev)
 
-# aka aaronedev github profile
+# Vicente Redruello Rossi
 
-
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=7745bf&)
-![GitHub followers](https://img.shields.io/github/followers/aaronedev?style=flat&logo=github&label=Followers&color=7c60d1)
-![GitHub stars](https://img.shields.io/github/stars/aaronedev?style=flat&logo=github&label=Stars&color=fd7cff)
+![Profile views](https://komarev.com/ghpvc/?username=VicRedDev&label=Profile%20views&color=f59e0b&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/VicRedDev?style=flat&logo=github&label=Followers&color=f59e0b)
+![GitHub stars](https://img.shields.io/github/stars/VicRedDev?style=flat&logo=github&label=Stars&color=fbbf24)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+desktop+engineering;rootless+containers;Hyprland+workflows;Neovim+configs+%26+Themes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;AI+%2F+LLM+Engineer;RAG+pipelines+%26+OpenAI+API;Laravel+%2B+Python+%2B+Filament" alt="Typing SVG" />
 </p>
 
-## 📬 About me -- Contact
+## 👋 About me
 
-<a href="https://wakatime.com/@018cc02c-e893-42e6-b1c7-48cb3ef3ccfe">
-  <img
-    src="https://wakatime.com/badge/user/018cc02c-e893-42e6-b1c7-48cb3ef3ccfe.svg?style=flat"
-    alt="Total time coded since Dec 31 2023"
-    style="filter: hue-rotate(90deg);" />
-</a>
+I'm a 20-year-old **Full Stack Developer** from **La Plata, Argentina**, focused on
+**AI and Large Language Models**. I'm pursuing a *Licenciatura en Sistemas* at **UNLP**
+while building software for public and private organizations.
 
-[![Waka Readme](https://github.com/aaronedev/aaronedev/actions/workflows/readme.yaml/badge.svg)](https://github.com/aaronedev/aaronedev/actions/workflows/readme.yaml)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=ffffff)](https://matrix.to/#/@aaronedev:matrix.org)
+I started coding as a kid, making games with Pygame. In 2024 I taught myself web
+development and later **LLM Engineering** — RAG, fine-tuning, open-source and
+proprietary models — turning AI into a tool I understand, evaluate, and apply with
+judgment. Today I work for the **Municipality of La Plata**, lead my own projects
+around AI automation and education, and keep up with a field that changes every week.
+Fluent in English, written and spoken.
 
-- Matrix: <a href="https://matrix.to/#/@aaronedev:matrix.org" target="_blank">@aaronedev:matrix.org</a>
-- Brieftaube: <a href="https://de.wikipedia.org/wiki/Brieftaube" target="_blank">Homing Pigeon</a> send it to cologne 50.951811223028265, 6.986298711065432
+> [!NOTE]
+> Always learning, shipping, and lifting — code and the gym are both part of the routine.
 
-> [!IMPORTANT]
-> Don't take urself too seriously, we're all pretty dumbs here.
+## 🛠️ Tech stack
 
-<div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="aaronedev's github statistics" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="aaronedev's github commit streak" height="140" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,js,html,css,tailwind,mysql,docker,nginx,cloudflare,bash,git,linux&perline=8" alt="Tech stack" />
+</p>
+
+**AI / LLM:**
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-f59e0b?style=flat&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-fbbf24?style=flat&logoColor=0c0a09)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-b45309?style=flat&logoColor=white)
+
+**Backend & frameworks:**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=laravel&logoColor=0c0a09)
+![Backpack](https://img.shields.io/badge/Backpack-2D9CDB?style=flat&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+<div class="badges-githubstats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VicRedDev&show_icons=true&hide_border=true&count_private=true&bg_color=0c0a09&title_color=f59e0b&text_color=e7e5e4&icon_color=fbbf24&border_radius=10" alt="VicRedDev's github statistics" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicRedDev&hide_border=true&background=0c0a09&stroke=44403c&ring=f59e0b&fire=fbbf24&currStreakNum=f59e0b&currStreakLabel=f59e0b&sideNums=e7e5e4&sideLabels=e7e5e4&dates=a8a29e&border_radius=10" alt="VicRedDev's github commit streak" height="160" />
 </div>
 
-## 🔧 What I do now
-- Build secure, rootless **Podman** dev setups ![Podman](https://img.shields.io/badge/Podman-7c60d1?style=flat&logo=podman&logoColor=ffffff)
-- Engineer **Hyprland** desktop workflows and **Neovim** theming ![Hyprland](https://img.shields.io/badge/Hyprland-fd0098?style=flat&logo=hyprland&logoColor=ffffff) ![Neovim](https://img.shields.io/badge/Neovim-42ff97?style=flat&logo=neovim&logoColor=0b0b0b)
-- Ship **python-utility** apps: offline TTS tools powered by **Piper** ![Python](https://img.shields.io/badge/Python-319e8d?style=flat&logo=python&logoColor=ffffff)
-  - Example: clipboard-reader aka [read-that](https://github.com/aaronedev/read-that) 📢
- that auto-detects **EN/DE**, switches voices, and takes flags for speed, pitch, and voice
-- Bash scripting: small, composable CLI tools ![Bash](https://img.shields.io/badge/Bash-fd0098?style=flat&logo=gnu-bash&logoColor=ffffff)
-- Linux (Arch-based) and network fundamentals for real deployments ![Linux](https://img.shields.io/badge/Linux-00fff9?style=flat&logo=linux&logoColor=0b0b0b) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-29adff?style=flat&logo=arch-linux&logoColor=ffffff)
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronedev&layout=compact&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicRedDev&layout=compact&bg_color=0c0a09&title_color=f59e0b&text_color=e7e5e4&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VicRedDev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="VicRedDev trophies" />
+  </a>
+</div>
+
+## 🔧 What I'm working on
+- **LLM-powered document pipelines** — RAG systems that extract and structure data from PDFs and images: judicial norms, official-gazette tenders, and more
+- **Full Stack web apps** with **Laravel + Filament/Backpack** front-of-house and **Python / FastAPI** services
+- **AI automation tooling** and **educational platforms**, from architecture to deploy
+- **Containerized deploys** on **Docker + Nginx + Linux** for real production environments
 
 ## ✨ I can help with
-- Bash scripting and automation ![Bash](https://img.shields.io/badge/Bash-fd0098?style=flat&logo=gnu-bash&logoColor=ffffff)
-- Hardening dev containers and CI without Docker (rootless **Podman**) ![Podman](https://img.shields.io/badge/Podman-7c60d1?style=flat&logo=podman&logoColor=ffffff)
-- Modular **Hyprland** configs, rules, and automation ![Hyprland](https://img.shields.io/badge/Hyprland-fd0098?style=flat&logo=hyprland&logoColor=ffffff)
-- **Neovim** UX (Lua, LSP, performance) ![Neovim](https://img.shields.io/badge/Neovim-42ff97?style=flat&logo=neovim&logoColor=0b0b0b) ![Lua](https://img.shields.io/badge/Lua-42ff97?style=flat&logo=lua&logoColor=0b0b0b)
-- Offline TTS pipelines with **Piper** (Python) and clean CLI ergonomics ![Python](https://img.shields.io/badge/Python-319e8d?style=flat&logo=python&logoColor=ffffff)
+- LLM / RAG pipelines, **OpenAI API** integration, and fine-tuning ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+- Full Stack web with **Laravel**, **Filament**, and **FastAPI** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- Parsing messy real-world data — complex CSV/Excel imports and normalization ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- Containerization and production deploys ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ## 🌟 Featured projects
-- 🎨 **Violet Void Theme** — core color system powering matching themes across apps (ArchWiki, CopyQ, more)\
-  [`aaronedev/violet-void-theme`](https://github.com/aaronedev/violet-void-theme)
-  - ArchWiki: restyles the ArchWiki with a violet void palette\
-    [`aaronedev/violet-void-theme_archwiki`](https://github.com/aaronedev/violet-void-theme_archwiki)
-  - CopyQ: matching CopyQ theme for a cohesive desktop\
-    [`aaronedev/violet-void-theme_copyq`](https://github.com/aaronedev/violet-void-theme_copyq)
-  - Sublime tmTheme Syntax mappings which can be used for [Bat](https://github.com/sharkdp/bat) and such\
-    [`aaronedev/violet-void-theme_subl`](https://github.com/aaronedev/violet-void-theme_subl)
 
-<details>
-  <summary>Color palette preview</summary>
+- 🤖 **CSV-AI** — open-source, modular tool that generates new CSV columns from JSON
+  instructions using LLMs (OpenAI). Configure each column with its prompt, input
+  fields, similarity search for normalization, and guards against hallucinations.\
+  [`VicRedDev/CSV-AI`](https://github.com/VicRedDev/CSV-AI)
 
-  <table>
-    <tbody>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/0f0f0f/80x40" alt="#0f0f0f swatch"><br><code>bg</code><br><code>#0f0f0f</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/0e0e0e/80x40" alt="#0e0e0e swatch"><br><code>bg_dark</code><br><code>#0e0e0e</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/1b1b1b/80x40" alt="#1b1b1b swatch"><br><code>bg_dark1</code><br><code>#1b1b1b</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/191919/80x40" alt="#191919 swatch"><br><code>bg_highlight</code><br><code>#191919</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/29adff/80x40" alt="#29adff swatch"><br><code>blue</code><br><code>#29adff</code></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/70c8ff/80x40" alt="#70c8ff swatch"><br><code>blue0</code><br><code>#70c8ff</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/b6e3ff/80x40" alt="#b6e3ff swatch"><br><code>blue1</code><br><code>#b6e3ff</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/2cbecf/80x40" alt="#2cbecf swatch"><br><code>blue2</code><br><code>#2cbecf</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/00a8a4/80x40" alt="#00a8a4 swatch"><br><code>blue5</code><br><code>#00a8a4</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/b4f9f8/80x40" alt="#b4f9f8 swatch"><br><code>blue6</code><br><code>#b4f9f8</code></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/4b8afe/80x40" alt="#4b8afe swatch"><br><code>blue7</code><br><code>#4b8afe</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/414141/80x40" alt="#414141 swatch"><br><code>comment</code><br><code>#414141</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/00fff9/80x40" alt="#00fff9 swatch"><br><code>cyan</code><br><code>#00fff9</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/212121/80x40" alt="#212121 swatch"><br><code>dark3</code><br><code>#212121</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/242424/80x40" alt="#242424 swatch"><br><code>dark5</code><br><code>#242424</code></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/f0f0f5/80x40" alt="#f0f0f5 swatch"><br><code>fg</code><br><code>#f0f0f5</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/303030/80x40" alt="#303030 swatch"><br><code>fg_dark</code><br><code>#303030</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/313131/80x40" alt="#313131 swatch"><br><code>fg_gutter</code><br><code>#313131</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/42ff97/80x40" alt="#42ff97 swatch"><br><code>green</code><br><code>#42ff97</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/42ffad/80x40" alt="#42ffad swatch"><br><code>green1</code><br><code>#42ffad</code></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/08bdba/80x40" alt="#08bdba swatch"><br><code>green2</code><br><code>#08bdba</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/fd7cff/80x40" alt="#fd7cff swatch"><br><code>magenta</code><br><code>#fd7cff</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/fd0098/80x40" alt="#fd0098 swatch"><br><code>magenta2</code><br><code>#fd0098</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/ff7c7e/80x40" alt="#ff7c7e swatch"><br><code>orange</code><br><code>#ff7c7e</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/bb7cff/80x40" alt="#bb7cff swatch"><br><code>purple</code><br><code>#bb7cff</code></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/ff004b/80x40" alt="#ff004b swatch"><br><code>red</code><br><code>#ff004b</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/ff1a67/80x40" alt="#ff1a67 swatch"><br><code>red1</code><br><code>#ff1a67</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/181818/80x40" alt="#181818 swatch"><br><code>terminal_black</code><br><code>#181818</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/319e8d/80x40" alt="#319e8d swatch"><br><code>teal</code><br><code>#319e8d</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/7c60d1/80x40" alt="#7c60d1 swatch"><br><code>yellow</code><br><code>#7c60d1</code></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+- 🏛️ **Municipal case & document management** *(Municipality of La Plata)* — role-based
+  platform (Super Admin / Admin / Reader) for digitizing and managing institutional
+  cases. Built a CSV/Excel-to-database import pipeline with complex parsing; deployed
+  and in active use.
 
-<details>
-  <summary>Git status colors</summary>
+- ⚖️ **Judicial norms management** *(La Plata & San Martín de los Andes)* — extended an
+  existing system to two municipalities, adding an LLM integration that turns images
+  and PDFs of norms into extracted, parsed fields — no more manual data entry.
 
-  <table>
-    <tbody>
-      <tr>
-        <td align="center"><img src="https://singlecolorimage.com/get/144f36/80x40" alt="#144f36 swatch"><br><code>add</code><br><code>#144f36</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/004f4d/80x40" alt="#004f4d swatch"><br><code>change</code><br><code>#004f4d</code></td>
-        <td align="center"><img src="https://singlecolorimage.com/get/4f0017/80x40" alt="#4f0017 swatch"><br><code>delete</code><br><code>#4f0017</code></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+- 🎓 **Educational platform for UNLP's Faculty of Informatics** — designed the
+  architecture and lead development of a per-subject hub: documentation, forums, and
+  interactive exercises (including an integrated Pascal compiler). *In progress.*
 
-- 🧩 **zen-mods** — modular ergonomics toolkit for Hyprland workspaces\
-  [`aaronedev/zen-mods`](https://github.com/aaronedev/zen-mods)
-  - zen-floating-bookmarks: lightweight floating bookmark UX\
-    [`aaronedev/zen-floating-bookmarks`](https://github.com/aaronedev/zen-floating-bookmarks)
-  - zen-spotlight *(in progress)* — rapid launcher overlays for Hyprland
+- 📄 **AI tender-extraction system** — RAG pipeline that automatically identifies and
+  extracts public tenders from official-gazette PDFs across Argentina, structuring the
+  data for commercial distribution.
 
-## 📝 Docs workflow
-All notes in Neovim via [obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) on plain Markdown.
+## 📫 Connect
 
-
-## 🪄 If you want to Fork this profile to use it as ur own
-
-[![templates/README.md.tpl](https://img.shields.io/badge/templates-README.md.tpl-2ea44f?logo=github&labelColor=161b22)](https://github.com/aaronedev/aaronedev/discussions/7)
-
-Check discussion page or click badge above to see install instructions if u want
-to automate the profile as I did.
+- 🌐 Website: [vicenteredruello.com](https://vicenteredruello.com)
+- 💼 LinkedIn: [in/vicente-redruello](https://www.linkedin.com/in/vicente-redruello/)
+- 📧 Email: [vicenteredruello@gmail.com](mailto:vicenteredruello@gmail.com)
+- 🐙 GitHub: [@VicRedDev](https://github.com/VicRedDev)
 
 ---
 
@@ -153,28 +111,9 @@ to automate the profile as I did.
 <details>
   <summary>Click to expand recent GitHub activity</summary>
 
-
-
 _No pull request activity just yet — busy crafting something new._
 
-
-
-
-### 🛠️ Latest Contributions
-
-- 🔗 [`aaronedev/violet-void-theme_archwiki`](https://github.com/aaronedev/violet-void-theme_archwiki) • 1 day ago\
-  <sub>Dark Violet-Void theme using a consistent handcrafted color palette for a unified look across the OS and web. I use those colors for my whole OS, and it&#39;s🔥</sub>
-
-- 🔗 [`aaronedev/stylelint-template`](https://github.com/aaronedev/stylelint-template) • 3 weeks ago
-
-- 🔗 [`aaronedev/violet-void-theme_chatgpt`](https://github.com/aaronedev/violet-void-theme_chatgpt) • 3 weeks ago
-
-- 🔗 [`aaronedev/nerdfont-icon-rofi-picker`](https://github.com/aaronedev/nerdfont-icon-rofi-picker) • 3 weeks ago\
-  <sub>A simple rofi-based picker for nerd font icons. Browse through thousands of icons with fuzzy search and copy them to your clipboard.</sub>
-
-- 🔗 [`aaronedev/violet-void-theme_subl`](https://github.com/aaronedev/violet-void-theme_subl) • 1 month ago
-
-
+_No public commits in the last few days — check back soon._
 
 </details>
 
@@ -182,97 +121,7 @@ _No pull request activity just yet — busy crafting something new._
 <details>
   <summary>Click to expand the latest metrics</summary>
 
-
-
-
-</details>
-
-
-### WakaTime stats
-<details>
-  <summary>Click to expand the latest metrics</summary>
-
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 4.9 MB Used in GitHub's Storage 
- > 
-> 🏆 3,203 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 116 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                113311 commits      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.85 % 
-🌆 Daytime                197021 commits      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.21 % 
-🌃 Evening                110718 commits      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.28 % 
-🌙 Night                  34943 commits       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.66 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   44479 commits       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.75 % 
-Tuesday                  58952 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.93 % 
-Wednesday                46470 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.19 % 
-Thursday                 102925 commits      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.57 % 
-Friday                   68472 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.02 % 
-Saturday                 65804 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.43 % 
-Sunday                   68891 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               14 hrs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.16 % 
-Markdown                 4 hrs 10 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.46 % 
-Bash                     2 hrs 6 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.79 % 
-YAML                     1 hr 52 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.04 % 
-CSV                      1 hr 42 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.52 % 
-
-🔥 Editors: 
-Neovim                   27 hrs 3 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   87.24 % 
-Vim                      3 hrs 13 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.42 % 
-Unknown Editor           25 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.39 % 
-VS Code                  17 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.95 % 
-
-🐱‍💻 Projects: 
-bauerstischfinder_dev    20 hrs 32 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   66.20 % 
-dotfiles                 4 hrs 37 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.92 % 
-Unknown Project          2 hrs 31 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.15 % 
-bauer                    46 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.51 % 
-cheatsheets              39 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.14 % 
-
-💻 Operating System: 
-Linux                    31 hrs 1 min        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    22 repos            ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.45 % 
-CSS                      13 repos            ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.27 % 
-Python                   9 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.18 % 
-Stylus                   5 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.10 % 
-JavaScript               5 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.10 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/aaronedev/aaronedev/main/assets/bar_graph.png)
-
-
- Last Updated on 23/02/2026 03:55:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
