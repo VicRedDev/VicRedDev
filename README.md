@@ -12,7 +12,7 @@
 
 ## 👋 About me
 
-I'm a 20-year-old **Full Stack Developer** from **La Plata, Argentina**, focused on
+I'm a 21-year-old **Full Stack Developer** from **La Plata, Argentina**, focused on
 **AI and Large Language Models**. I'm pursuing a *Licenciatura en Sistemas* at **UNLP**
 while building software for public and private organizations.
 
