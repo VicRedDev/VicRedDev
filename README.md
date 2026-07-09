@@ -45,14 +45,17 @@ Fluent in English, written and spoken.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 <div class="badges-githubstats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicRedDev&show_icons=true&hide_border=true&count_private=true&bg_color=0c0a09&title_color=f59e0b&text_color=e7e5e4&icon_color=fbbf24&border_radius=10" alt="VicRedDev's github statistics" height="160" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=VicRedDev&show_icons=true&hide_border=true&count_private=true&bg_color=0c0a09&title_color=f59e0b&text_color=e7e5e4&icon_color=fbbf24&border_radius=10" alt="VicRedDev's github statistics" height="160" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicRedDev&hide_border=true&background=0c0a09&stroke=44403c&ring=f59e0b&fire=fbbf24&currStreakNum=f59e0b&currStreakLabel=f59e0b&sideNums=e7e5e4&sideLabels=e7e5e4&dates=a8a29e&border_radius=10" alt="VicRedDev's github commit streak" height="160" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicRedDev&layout=compact&bg_color=0c0a09&title_color=f59e0b&text_color=e7e5e4&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
+-->
 
+<!--
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -60,6 +63,7 @@ Fluent in English, written and spoken.
     <img src="https://github-profile-trophy.vercel.app/?username=VicRedDev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="VicRedDev trophies" />
   </a>
 </div>
+-->
 
 ## 🔧 What I'm working on
 - **LLM-powered document pipelines** — RAG systems that extract and structure data from PDFs and images: judicial norms, official-gazette tenders, and more
@@ -104,8 +108,11 @@ Fluent in English, written and spoken.
 - 📧 Email: [vicenteredruello@gmail.com](mailto:vicenteredruello@gmail.com)
 - 🐙 GitHub: [@VicRedDev](https://github.com/VicRedDev)
 
+<!--
 ---
+-->
 
+<!--
 ## ⭐ Recent activity
 
 <details>
@@ -116,12 +123,12 @@ _No pull request activity just yet — busy crafting something new._
 _No public commits in the last few days — check back soon._
 
 </details>
+-->
 
+<!--
 ### ✨ WakaTime stats ✨
 <details>
   <summary>Click to expand the latest metrics</summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+  
 </details>
+-->
